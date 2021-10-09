@@ -1,0 +1,39 @@
+ping + tên wed
+nslookup + địa chỉ IP
+ping -a + đại chỉ IP
+
+ipconfig /displaydns :: hiển thị bộ nhớ đệm cả máy  
+
+*http sài cổng 80
+*https xài cổng 443
+
+*client-sever
+*tập tin của một website trong htDoc
+*1 wed severs ko ko thực thi được mã PHP tại phải cài trình biên dịch mới đọc được
+*thư mục logs để làm gì ? ghi chép lại lỗi đã xảy ra các cài đặt đã thực hiện để lưu vết để lầ theo tìm ra lỗi tại sao hệ thống bị ngưng 
+
+tập tin host dùng để lưu:
+bộ nhớ cast: lưu các yêu cầu và xử lý 
+
+
+
+xuất tên miền :
+tạo 1 trang wed 
+up code lên 
+gitthub 
+chon setting kéo xuống
+-mục Github Pages : chọn check it out here
+mục source chọn main rồi SAVE 
+vô đường link để vào trang wed
+
+-----------------------------------------------------------------------------------------
+
+-client-server :: công cụ để trao đổi http(s)
+- server phải có địa chỉ IP "203.456.7.9"
+- tiki.vn - 203.200.7.69 (DNS) (trỏ tên miền về hosting) - hosts, vhost( trỏ tên miền về địa chỉ IP)
+- web server(apahce, ngín,iis,nodejs,apache,tomcat,) - request HTTP > repsonse
+- đẩy mã nguồn lên web server ( storage server) - hosting
+- thuê: shared hosting 
+- index.php <?php echo "hi"; ?> 
+
+Lập trình phía server ( server slide 
