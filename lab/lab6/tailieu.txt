@@ -1,0 +1,18 @@
+- học kiến thức ( PTUDW)
+- Phương pháp học / tự học 
+- ứng dụng wbserver chạy sẵn
+- chờ trình duyệt khởi pahst yêu cầu > URL
+https://mywwebsite.local > 134.34.5.7>my website.local > index.php
+
+
+-----------
+Hệ quan rtrij CSDL
+- tạo cơ sở dữ liệu( quan hệ, dạng bảng) > new database
+- tạo các bagr dữ liệu ( sinhvien(mssvv, hoten, tuoi , diem)
+- tạo ràng buộc 
+- thử truy vấn dữ liệu > đổ ea giao diện web > <table><row> ...</table>
+CRUD: create, read,update, delete
+ ------
+-làm trang tin tức
+- web thương mại , điện tử 
+- web nghiệp vụ/ quy trình quản lý   
