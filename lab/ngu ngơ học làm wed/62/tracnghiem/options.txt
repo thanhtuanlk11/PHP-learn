@@ -1,0 +1,45 @@
+01|a|Vào buổi sáng|2
+01|b|Vào buổi chiều và chớm tối|4
+01|c|Vào đêm muộn|6
+02|a|Khá nhanh với bước chân dài|6
+02|b|Khá nhanh với bước chân ngắn|4
+02|c|Không nhanh lắm, đầu ngẩng cao, hướng mặt ra cả thế giới|7
+02|d|Không nhanh lắm, đầu cúi xuống|2
+02|e|Rất chậm|1
+03|a|Đứng, khoanh tay|4
+03|b|Siết chặt hai bàn tay|2
+03|c|Đặt một hoặc cả hai tay lên hông|5
+03|d|Chạm hoặc đẩy người đối thoại|7
+03|e|Sờ tai, xoa cằm hoặc nghịch tóc|6
+04|a|Đầu gối cong, hai chân khép sát vào nhau|4
+04|b|Hai chân bắt chéo nhau|6
+04|c|Hai chân duỗi thẳng|2
+04|d|Khoanh chân|1
+05|a|Cười lớn|6
+05|b|Cười, nhưng không cười lớn|4
+05|c|Cười lặng lẽ|3
+05|d|Cười bẽn lẽn, ngượng ngùng|5
+06|a|Gây ồn ào khi đến để mọi người chú ý|6
+06|b|Đến lặng lẽ, và tìm người bạn quen biết|4
+06|c|Bước vào một cách lặng lẽ nhất, cố gắng không bị chú ý|2
+07|a|Chào đón "kẻ phá đám"|6
+07|b|Cảm thấy thực sự khó chịu|2
+07|c|Mơ hồ giữa hai thái cực|4
+08|a|Đỏ hoặc cam|6
+08|b|Đen|7
+08|c|Vàng hoặc xanh nhạt|5
+08|d|Xanh lá cây|4
+08|e|Xanh đậm hoặc tím|3
+08|f|Trắng|2
+08|g|Nâu hoặc xám|1
+09|a|Nằm ngửa duỗi thẳng|7
+09|b|Nằm úp, duỗi thẳng|6
+09|c|Nằm nghiêng về một bên, hơi co|4
+09|d|Tay gối đầu|2
+09|e|Chùm đầu|1
+10|a|Rớt|4
+10|b|Đánh đấm hoặc vật lộn|2
+10|c|Tìm kiếm một vật gì hoặc người nào|3
+10|d|Bay hoặc trôi|5
+10|e|Ít khi mơ|6
+10|f|Giấc mơ của bạn luôn vui vẻ dễ thương|1

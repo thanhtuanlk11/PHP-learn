@@ -1,0 +1,10 @@
+01|Bạn cảm thấy dễ chịu nhất khi nào?
+02|Bạn thường bước đi:
+03|Khi nói chuyện với người khác, bạn:
+04|Khi nghỉ ngơi, bạn ngồi như thế nào?
+05|Khi ngạc nhiên thích thú, bạn phản ứng thế nào?
+06|Khi đi dự tiệc, bạn:
+07|Bạn đang làm việc và tập trung cao độ thì bị cắt ngang. Bạn sẽ:
+08|Bạn thích màu nào nhất trong các màu dưới đây?
+09|Khi đi ngủ, lúc sắp ngủ, bạn nằm trong tư thế nào?
+10|Bạn thường mơ mình:
